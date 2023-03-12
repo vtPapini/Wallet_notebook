@@ -1,4 +1,1 @@
 yfinance
-plotly.subplots
-plotly.graph_objects
-plotly.express
